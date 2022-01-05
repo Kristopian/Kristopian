@@ -1,23 +1,12 @@
-Name-Kristopian
+Name-Kristopian  Job-Freelancer
 
-Job-Freelancer
+HP-(====------)46  No effects
 
-HP-(====------)46
-
-  No effects
-
-MP-(=======---)253
-
-  +48 max MP from keyboard
-
-SP-(===-------)28
-  -12 max SP for being sleep-deprieved
+MP-(=======---)253  +48 max MP from keyboard
   
-LV-12
-
-  EXP(====------)
+SP-(===-------)28  -12 max SP for being sleep-deprieved
   
-Cheap Home(fully paid for)--$58
+LV-12  EXP(====------)  $58  Cheap Home(fully paid for)
 
 Hi! Im @Kristopian, A Beginning programmer who dabbles in several languages
 

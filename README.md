@@ -15,7 +15,7 @@ Hi! Im @Kristopian, A Beginning programmer who dabbles in several languages
     Html, Html5, C, (Does Scratch count?).
   languages I know a bit about without actully fully grasping are,
   
-    C+, C++, C#, Javascript, Java, Assembly(Actully kind of impressive for a beginner), Haskel(I'm a bit insane).
+    C+, C++, C#, Javascript, Java, Assembly(Actully kind of impressive for a beginner), Haskel(I'm a bit insane), Nix.
   languages I am trying to pick up
   
     Python(same situation as below), visual Basic(I thought basic was easy to learn), Prolog ,Lisp, Malbolge, Rust
